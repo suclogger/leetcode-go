@@ -1,8 +1,5 @@
 package main
 
-func main() {
-}
-
 func swapPairs(head *ListNode) *ListNode {
 	if head == nil || head.Next == nil {
 		return head
