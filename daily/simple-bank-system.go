@@ -1,4 +1,4 @@
-package daily
+package main
 
 import "math"
 
