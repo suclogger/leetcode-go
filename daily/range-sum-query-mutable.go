@@ -69,10 +69,10 @@ func (this *NumArray) SumRange(left int, right int) int {
 	return this.queryRange(left, right)
 }
 
-func main() {
-	obj := Constructor1([]int{1, 3, 5})
-	print(obj.SumRange(0, 2))
-}
+//func main() {
+//	obj := Constructor1([]int{1, 3, 5})
+//	print(obj.SumRange(0, 2))
+//}
 
 /**
  * Your NumArray object will be instantiated and called as such:
